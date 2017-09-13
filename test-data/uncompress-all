@@ -1,0 +1,2 @@
+#!/bin/sh
+for i in *.xz; do unxz -k $i; done

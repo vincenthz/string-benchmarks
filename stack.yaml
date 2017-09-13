@@ -1,0 +1,6 @@
+resolver: lts-9.4
+packages:
+- .
+extra-deps:
+- foundation-0.0.15
+- basement-0.0.2

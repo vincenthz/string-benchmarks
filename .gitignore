@@ -1,0 +1,5 @@
+.stack-work
+*.hi
+test-data/*.txt
+test-data/*.xml
+test-data/*.html
